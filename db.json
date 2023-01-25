@@ -1,19 +1,22 @@
 {
   "suppliers": {
+	"1": {
     "customerSupplier": "000001",
     "corporateName": "Nome do Fornecedor",
 	"name": "Nome Fantasia",
 	"phoneNumber": "11 9999-9999",
 	"email": "email@email.com",
-    "addresses": {
+    "addresses": [
+	{
       "fullAddress": "Nome da Rua, 9999 - Complemento",
 	  "city": "SAO PAULO",
 	  "state": "SP",
-	  "country": "BRAZIL",
-	  "postalCode": "094000-000",
+	  "country": "BRASIL",
+	  "postalCode": "09400-000",
 	  "district": "Bairro",
 	  "mainAdress": "True"
-    },
+    }
+	],
 	"taxIdentification": {
 	  "documentNumber": "1048061600160",
 	  "documentType": "CGC",
@@ -21,6 +24,57 @@
 	},
 	"isInternational": "True",
 	"blocked": "True"
-  }
+	},
+	"2": {
+    "customerSupplier": "000001",
+    "corporateName": "Nome do Fornecedor",
+	"name": "Nome Fantasia",
+	"phoneNumber": "11 9999-9999",
+	"email": "email@email.com",
+    "addresses": [
+	{
+      "fullAddress": "Nome da Rua, 9999 - Complemento",
+	  "city": "SAO PAULO",
+	  "state": "SP",
+	  "country": "BRASIL",
+	  "postalCode": "09400-000",
+	  "district": "Bairro",
+	  "mainAdress": "True"
+    }
+	],
+	"taxIdentification": {
+	  "documentNumber": "13327550000161",
+	  "documentType": "CGC",
+	  "countryKey": "123456"
+	},
+	"isInternational": "True",
+	"blocked": "false"
+	},
+	"3": {
+    "customerSupplier": "000001",
+    "corporateName": "Nome do Fornecedor",
+	"name": "Nome Fantasia",
+	"phoneNumber": "11 9999-9999",
+	"email": "email@email.com",
+    "addresses": [
+	{
+      "fullAddress": "Nome da Rua, 9999 - Complemento",
+	  "city": "SAO PAULO",
+	  "state": "SP",
+	  "country": "BRASIL",
+	  "postalCode": "09400-000",
+	  "district": "Bairro",
+	  "mainAdress": "True"
+    }
+	],
+	"taxIdentification": {
+	  "documentNumber": "71728703000189",
+	  "documentType": "CGC",
+	  "countryKey": "123456"
+	},
+	"isInternational": "True",
+	"blocked": "false"
+	}
+  }  
 }
 
