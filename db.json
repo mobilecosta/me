@@ -1,0 +1,26 @@
+{
+  "suppliers": {
+    "customerSupplier": "000001",
+    "corporateName": "Nome do Fornecedor",
+	"name": "Nome Fantasia",
+	"phoneNumber": "11 9999-9999",
+	"email": "email@email.com",
+    "addresses": {
+      "fullAddress": "Nome da Rua, 9999 - Complemento",
+	  "city": "SAO PAULO",
+	  "state": "SP",
+	  "country": "BRAZIL",
+	  "postalCode": "094000-000",
+	  "district": "Bairro",
+	  "mainAdress": True,
+    },
+	"taxIdentification": {
+	  "documentNumber": "1048061600160",
+	  "documentType": "CGC",
+	  "countryKey": "123456"
+	},
+	"isInternational": True,
+	"blocked": True
+  }
+}
+
