@@ -12,7 +12,7 @@
 	  "country": "BRAZIL",
 	  "postalCode": "094000-000",
 	  "district": "Bairro",
-	  "mainAdress": "True",
+	  "mainAdress": "True"
     },
 	"taxIdentification": {
 	  "documentNumber": "1048061600160",
