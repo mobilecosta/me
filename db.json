@@ -1,6 +1,7 @@
 {
-  "suppliers": {
-	"1": {
+  "suppliers": [
+	{
+	"id": 1,
     "customerSupplier": "000001",
     "corporateName": "Nome do Fornecedor",
 	"name": "Nome Fantasia",
@@ -25,7 +26,8 @@
 	"isInternational": "True",
 	"blocked": "True"
 	},
-	"2": {
+	{
+	"id": 2,
     "customerSupplier": "000001",
     "corporateName": "Nome do Fornecedor",
 	"name": "Nome Fantasia",
@@ -50,7 +52,8 @@
 	"isInternational": "True",
 	"blocked": "false"
 	},
-	"3": {
+	{
+	"id": 3,
     "customerSupplier": "000001",
     "corporateName": "Nome do Fornecedor",
 	"name": "Nome Fantasia",
@@ -75,6 +78,6 @@
 	"isInternational": "True",
 	"blocked": "false"
 	}
-  }  
+  ]
 }
 
