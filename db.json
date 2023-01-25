@@ -12,15 +12,15 @@
 	  "country": "BRAZIL",
 	  "postalCode": "094000-000",
 	  "district": "Bairro",
-	  "mainAdress": True,
+	  "mainAdress": "True",
     },
 	"taxIdentification": {
 	  "documentNumber": "1048061600160",
 	  "documentType": "CGC",
 	  "countryKey": "123456"
 	},
-	"isInternational": True,
-	"blocked": True
+	"isInternational": "True",
+	"blocked": "True"
   }
 }
 
