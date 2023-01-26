@@ -116,166 +116,69 @@
 	"summary": "Titulo Cotação",
 	"observation": "Instruções gerais: \r\n\r\nInstruções de Entrega:",
 	"supplierCustomer": ""
-	},
-	{
-	"id": 2,
-	"preOrderId": 15331690,
-	"quotationId": 9117975,
-	"idWF": 4601046,
-	"workflowId": 4600985,
-	"supplierId": 4601131,
-	"status": 1,
-	"deliveryPlace": {
-		"address": "AV. BRAZ LEME",
-		"number": "1000",
-		"complement": "",
-		"city": "SAO PAULO",
-		"state": "SP",
-		"district": "CASA VERDE          ",
-		"postalCode": "2511000",
-		"placeName": "TOTVS LARGE ENTERPRISE - SAO PAULO (82373077000171)",
-		"placeCode": "2501000200",
-		"phoneNumber": ""
-	},
-	"currency": "BRL",
-	"paymentCondition": "22",
-	"icoTerms": "CIF",
-	"businessOrganizationId": 0,
-	"invisible": false,
-	"originTypes": "Quotation",
-	"creationDate": "0001-01-01T00:00:00",
-	"hasLogistic": false,
-	"internalObservation": "",
-	"justificationMinimumNumberAnswersQuotation": "",
-	"preOrderElement": "",
-	"approverObservation": "",
-	"category": "NM",
-	"summary": "Titulo Cotação",
-	"observation": "Instruções gerais: \r\n\r\nInstruções de Entrega:",
-	"supplierCustomer": ""
 	}
   ],
-  "items": 
+  "items": [
   {
-	"id": 1,
-	"items":[
-            {
-                "number":1,
-                "quantity":1,
-                "description":"ACUCAR REFINADO",
-                "complement":"",
-                "unit":"UN",
-                "productGroupCode":"",
-                "productCode":"60100002",
-                "priceUnit":100,
-                "ncm":"",
-                "canceled":"N",
-                "materialScope":"",
-                "finalDelivery":"",
-                "isService":true,
-                "observation":"OBSERVACAO DO ITEM",
-                "deliveries":[
-                    {
-                    "deliveryDate":"2023-01-31T12:42:58.573Z",
-                    "quantity":1
-                    }
-                ],
-                "taxes":[
-                    {
-                    "value":"",
-                    "included":true
-                    }
-                ]
-            },
-            {
-                "number":2,
-                "quantity":1,
-                "description":"PERFURADOR DE PAPEL 2F PRETO",
-                "complement":"",
-                "unit":"UN",
-                "productGroupCode":"",
-                "productCode":"60800385",
-                "priceUnit":100,
-                "ncm":"",
-                "canceled":"N",
-                "materialScope":"",
-                "finalDelivery":"",
-                "isService":true,
-                "observation":"OBSERVACAO DO ITEM",
-                "deliveries":[
-                    {
-                    "deliveryDate":"2023-01-24T12:42:58.573Z",
-                    "quantity":1
-                    }
-                ],
-                "taxes":[
-                    {
-                    "value":"",
-                    "included":true
-                    }
-                ]
-            }            
-        ]  
-  },
-  {
-	"id": 2,
-	"items":[
-            {
-                "number":1,
-                "quantity":1,
-                "description":"ACUCAR REFINADO",
-                "complement":"",
-                "unit":"UN",
-                "productGroupCode":"",
-                "productCode":"60100002",
-                "priceUnit":100,
-                "ncm":"",
-                "canceled":"N",
-                "materialScope":"",
-                "finalDelivery":"",
-                "isService":true,
-                "observation":"OBSERVACAO DO ITEM",
-                "deliveries":[
-                    {
-                    "deliveryDate":"2023-01-31T12:42:58.573Z",
-                    "quantity":1
-                    }
-                ],
-                "taxes":[
-                    {
-                    "value":"",
-                    "included":true
-                    }
-                ]
-            },
-            {
-                "number":2,
-                "quantity":1,
-                "description":"PERFURADOR DE PAPEL 2F PRETO",
-                "complement":"",
-                "unit":"UN",
-                "productGroupCode":"",
-                "productCode":"60800385",
-                "priceUnit":100,
-                "ncm":"",
-                "canceled":"N",
-                "materialScope":"",
-                "finalDelivery":"",
-                "isService":true,
-                "observation":"OBSERVACAO DO ITEM",
-                "deliveries":[
-                    {
-                    "deliveryDate":"2023-01-24T12:42:58.573Z",
-                    "quantity":1
-                    }
-                ],
-                "taxes":[
-                    {
-                    "value":"",
-                    "included":true
-                    }
-                ]
-            }            
-        ]  
+  "id": 1,
+  "items":[
+		{
+			"number":1,
+			"quantity":1,
+			"description":"ACUCAR REFINADO",
+			"complement":"",
+			"unit":"UN",
+			"productGroupCode":"",
+			"productCode":"60100002",
+			"priceUnit":100,
+			"ncm":"",
+			"canceled":"N",
+			"materialScope":"",
+			"finalDelivery":"",
+			"isService":true,
+			"observation":"OBSERVACAO DO ITEM",
+			"deliveries":[
+				{
+				"deliveryDate":"2023-01-31T12:42:58.573Z",
+				"quantity":1
+				}
+			],
+			"taxes":[
+				{
+				"value":"",
+				"included":true
+				}
+			]
+		},
+		{
+			"number":2,
+			"quantity":1,
+			"description":"PERFURADOR DE PAPEL 2F PRETO",
+			"complement":"",
+			"unit":"UN",
+			"productGroupCode":"",
+			"productCode":"60800385",
+			"priceUnit":100,
+			"ncm":"",
+			"canceled":"N",
+			"materialScope":"",
+			"finalDelivery":"",
+			"isService":true,
+			"observation":"OBSERVACAO DO ITEM",
+			"deliveries":[
+				{
+				"deliveryDate":"2023-01-24T12:42:58.573Z",
+				"quantity":1
+				}
+			],
+			"taxes":[
+				{
+				"value":"",
+				"included":true
+				}
+			]
+		}            
+	]
   }
+  ]
 }
