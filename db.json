@@ -101,7 +101,7 @@
 		"phoneNumber": ""
 	},
 	"currency": "BRL",
-	"paymentCondition": "22",
+	"paymentCondition": "000",
 	"icoTerms": "CIF",
 	"businessOrganizationId": 0,
 	"invisible": false,
